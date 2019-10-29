@@ -12,9 +12,6 @@
 --	----------------------------------------------------------
 --
 --
---	empty.lua: A Lua script template for Mosaic,
---	mimicking the standard OF app structure
---
 --
 
 
