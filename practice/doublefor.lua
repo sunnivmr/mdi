@@ -12,8 +12,6 @@
 --	----------------------------------------------------------
 --
 --
---	DoubleFor.lua: A Basic Lua script example of control structure with double for, for Mosaic,
---	mimicking the standard OF app structure
 --
 --
 
