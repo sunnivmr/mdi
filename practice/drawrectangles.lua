@@ -3,7 +3,6 @@
 --	----------------------------------------------------------
 --	Mosaic | OF Visual Patching Developer Platform
 --
---	Copyright (c) 2019 Emanuele Mazza aka n3m3da
 --
 --	Mosaic is distributed under the MIT License. This gives everyone the
 --    freedoms to use Mosaic in any context: commercial or non-commercial,
@@ -13,8 +12,6 @@
 --	----------------------------------------------------------
 --
 --
---	empty.lua: A Lua script template for Mosaic,
---	mimicking the standard OF app structure
 --
 --
 
